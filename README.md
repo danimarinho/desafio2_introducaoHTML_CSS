@@ -53,9 +53,3 @@ Prontinho!
 Agora é só trabalhar com essa imagem lá no seu arquivo index.html! 💜
 
 Por ser algo que não foi passado em aula, já vou deixar a solução por aqui caso você tenha alguma dificuldade, tudo bem? 💜
-
-- Solução para adicionar Favicon
-    
-    ```html
-    <link rel="shortcut icon" href="images/favicon.svg" type="image" />
-    ```
