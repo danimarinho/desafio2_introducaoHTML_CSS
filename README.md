@@ -13,14 +13,8 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 
 ## Layout da aplicação
 
-O Figma está disponível nesse **[link](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate).** Abaixo você consegue visualizar a carinha da aplicação:
+![image](https://github.com/danimarinho/previews-rocketseat/blob/main/preview-stage02-extra.png?raw=true)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a5e672c-481d-4bb7-8ee1-5017440adb21/Untitled.png)
-
-<aside>
-⚠️ **Alerta**: Caso ao clicar no link você se depare com o erro que `WebGL` não está ativado no seu navegador, [siga esses passos](https://help.figma.com/hc/en-us/articles/360039828614#Enable_WebGL).
-
-</aside>
 
 ## Quais arquivos devo criar na minha aplicação?
 
@@ -34,22 +28,6 @@ Além de criar a pasta **images**, que irá conter as imagens da sua aplicação
 Que tal se desafiar e adicionar um **Favicon** no seu projeto? 👀💜
 Um Favicon (junção das palavras em inglês *favorite* + *icon*) é aquela imagenzinha que fica do lado do título da sua aplicação no navegador:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/765d5e76-f35c-4bba-bf39-a4efb3183997/Untitled.png)
+![image](https://raw.githubusercontent.com/danimarinho/desafio2_introducaoHTML_CSS/76558fa6e91249f4b7d7062a9b384e7f235a34ac/img/favicon.svg)
 
-<aside>
-💡 Dicas
 
-</aside>
-
-- No Figma da aplicação você pode notar que temos uma imagem já disponível para o Favicon! Basta você copiar como SVG e adicionar dentro da sua pasta images:
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63e7cf42-ba48-4445-a8f8-0ac738c77c12/Untitled.png)
-
-Para adicionar dentro da sua pasta images, basta criar um arquivo com o nome de sua preferência, com a extensão .svg e colar o código copiado do Figma. 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9eeb711-e172-4695-b2bf-6cbdec81a1ef/Untitled.png)
-
-Prontinho!
-Agora é só trabalhar com essa imagem lá no seu arquivo index.html! 💜
-
-Por ser algo que não foi passado em aula, já vou deixar a solução por aqui caso você tenha alguma dificuldade, tudo bem? 💜
